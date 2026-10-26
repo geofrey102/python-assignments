@@ -1,0 +1,7 @@
+Customer Name: Alice Wanjiku
+Customer ID: CUST001
+Telephone: 0712345678
+
+Customer Name: Brian Otieno
+Customer ID: CUST002
+Telephone: 0723456789
